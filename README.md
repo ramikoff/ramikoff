@@ -46,7 +46,7 @@ I have experience in developing modern, responsive web applications using cuttin
 ### 📚 Beyond coding:
 - 🎮 Gaming
 - 🎣 Fishing
-- ₿ Crypto
+- 💰 Crypto
 
 ---
 
