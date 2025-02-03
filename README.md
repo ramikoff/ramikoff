@@ -38,7 +38,6 @@ I have experience in developing modern, responsive web applications using cuttin
 
 ### 📈 Future goals:
 - Expanding my knowledge in **Next.js** and full-stack development.
-- Contributing to open-source projects and collaborating with the community.
 - Building complex, real-world applications with a focus on scalability.
 
 ---
